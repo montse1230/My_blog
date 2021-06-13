@@ -3,3 +3,5 @@ Esta es mi historia para el curso de Git y GitHub
 Mi nombre es Alexis y tengo 20
 
 Soy estudiante de Platzi y me encanta!!
+
+Hoy hablaremos de mi vida
