@@ -16,6 +16,16 @@ html{
     border-color: darkblue;
     text-align: center;
     margin: auto;
-    background-color: rgb(226, 143, 19);
-    padding-top: 2px;
+    background-color: aqua;
+}
+
+.contenedor__cabecera{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(199, 196, 21);
+    color: aliceblue;
+    margin: 0;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 5px auto;
 }
