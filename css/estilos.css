@@ -10,11 +10,12 @@ html{
 
 .contenedor__titulo{
     width: 70%;
-    height: 200px;
+    height: auto;
     border: 5px;
     border-style: dashed;
     border-color: darkblue;
     text-align: center;
     margin: auto;
-    background-color: aqua;
+    background-color: rgb(226, 143, 19);
+    padding-top: 2px;
 }
